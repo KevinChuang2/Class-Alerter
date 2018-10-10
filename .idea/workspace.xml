@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc48d7c9-a672-4476-b4af-2d1b046ee6e4" name="Default" comment="" />
+    <list default="true" id="cc48d7c9-a672-4476-b4af-2d1b046ee6e4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Watcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Watcher.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="Watcher.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Watcher.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="78" column="68" selection-start-line="78" selection-start-column="68" selection-end-line="78" selection-end-column="68" />
+            <state relative-caret-position="1700">
+              <caret line="100" column="71" selection-start-line="100" selection-start-column="71" selection-end-line="100" selection-end-column="71" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -41,6 +43,9 @@
       <find>email</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -55,6 +60,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1041" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -159,7 +165,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50316125" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49683878" weight="0.32897604" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49947312" weight="0.23856209" />
@@ -369,8 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Watcher.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="78" column="68" selection-start-line="78" selection-start-column="68" selection-end-line="78" selection-end-column="68" />
+        <state relative-caret-position="1700">
+          <caret line="100" column="71" selection-start-line="100" selection-start-column="71" selection-end-line="100" selection-end-column="71" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>

@@ -99,7 +99,6 @@ eud_msg = ''
 kev_msg = ''
 if class_is_open(driver, subj, catalog, lecture):
     kev_msg += 'EMPTY: ' + subj + ' ' + catalog + ' ' + lecture + ' \t'
-    #send_msg('eudora.usa@gmail.com', subj + ' ' + catalog + ' ' + lecture + ' has a spot open')
     #send_msg('kevinchuang2@gmail.com', 'yo ' + subj + ' ' + catalog + ' ' + lecture+ ' is empty')
 else:
     kev_msg +='FULL: ' + subj + ' ' + catalog + ' ' + lecture + ' \t'
